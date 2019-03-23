@@ -47,7 +47,6 @@ section h2.section-heading {
 
 section h3.section-subheading {
   font-size: 16px;
-  color: #fff;
   font-weight: 400;
   font-style: italic;
   margin-bottom: 75px;
@@ -731,6 +730,3 @@ input {
   cursor: pointer;
 }
 
-.h245 {
-  color: #fff;
-}
